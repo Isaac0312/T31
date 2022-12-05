@@ -1,0 +1,20 @@
+.calculadora{
+    border: 3px blue ridge;
+    padding: 15px 15px;
+    width: 200px;
+    text-align: center;
+    background-color: rgb(243, 242, 186);
+}
+#textoPantalla { 
+    width: 195px;
+    background-color: white;
+    border: 2px black solid; 
+    text-align: right;
+    overflow: visible;
+}
+
+.calculadora input.largo { color: red; width: 63px; }
+.calculadora [type=button] {
+    width: 35px;
+}
+
